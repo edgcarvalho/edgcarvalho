@@ -1,8 +1,7 @@
 ### Oie gente, sou Edmara 👋
 
 
-- 🔭 Trabalho como Auxiliar Administrativo
-- 🌱 Estudo Desenvolvimento de Sistemas
+- 🌱 Estudo Gestão da Tecnologia da Informação
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Nerdola fã de Harry Potter e Marvel
 -->
